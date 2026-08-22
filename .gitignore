@@ -22,3 +22,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local drafts - not for public view
+resume_bullets.md
