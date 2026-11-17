@@ -1,5 +1,12 @@
 # Regional Credit Default Risk Mapping
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge)
+![Data-LendingClub](https://img.shields.io/badge/Data-LendingClub-2c5364?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 Does adding geographic risk information improve loan default prediction — and where are the highest-risk regions?
 
 This project joins borrower-level lending data with state-level default rates and macroeconomic indicators, then tests whether geography carries predictive signal beyond what borrower features already capture.
